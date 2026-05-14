@@ -1,0 +1,9 @@
+# Zig build output files
+zig-out/
+zig-cache/
+.zig-cache/
+zig-pkg/
+
+.vscode/
+.env
+
